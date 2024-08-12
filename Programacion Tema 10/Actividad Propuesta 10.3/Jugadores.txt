@@ -1,0 +1,5 @@
+juan	22	1,77
+miguel	26	1,73
+pedro	20	1,80
+pepe	33	1,68
+fran	21	1,78

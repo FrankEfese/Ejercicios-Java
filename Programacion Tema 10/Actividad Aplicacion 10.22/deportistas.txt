@@ -1,0 +1,6 @@
+Nombre  Edad  Peso  Altura
+Juan    25    70    1,75
+María   30    65    1,60
+Carlos  40    80    1,80
+Ana     35    60    1,55
+Pedro   28    75    1,70

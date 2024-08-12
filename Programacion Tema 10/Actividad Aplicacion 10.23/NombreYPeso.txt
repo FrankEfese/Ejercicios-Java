@@ -1,0 +1,6 @@
+Nombre         Peso
+Juan           70
+María          65
+Carlos         80
+Ana            60
+MaríaJosé      75

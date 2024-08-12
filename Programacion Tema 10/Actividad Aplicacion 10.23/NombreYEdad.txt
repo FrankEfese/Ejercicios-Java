@@ -1,0 +1,6 @@
+Nombre         Edad
+Juan           25
+María          30
+Carlos         40
+Ana            35
+MaríaJosé      28

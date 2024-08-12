@@ -1,0 +1,6 @@
+Nombre         Altura
+Juan           175
+María          160
+Carlos         180
+Ana            155
+MaríaJosé      170
