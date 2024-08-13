@@ -40,5 +40,5 @@
 
 ### <div align="center">El IDE utilizado es el de NetBeans en su version 18 y el JDK de Java es el 20.</div>
 
-# <div align="center">¡¡¡RECUERDA SEGUIRME!!!</div>
+# <div align="center">¡¡¡RECUERDA SEGUIRME Y DAR UNA ESTRELLITA!!!</div>
 
